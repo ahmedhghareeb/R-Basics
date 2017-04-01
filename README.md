@@ -1,4 +1,1 @@
-# R
-# R
-# R
-# R-Basics
+RStudio basics
